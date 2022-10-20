@@ -1,0 +1,15 @@
+2022/10/18 08:43:41 main.go:65: Recieve a namesilo request.
+2022/10/18 08:46:51 main.go:170: Check:xlrouter6 CHANGE h11bmc6 CHANGE 
+2022/10/18 08:46:51 main.go:173: ------------------------------------------
+2022/10/18 08:49:00 main.go:65: Recieve a namesilo request.
+2022/10/18 08:49:39 main.go:170: Check:xlrouter6 SAME h11bmc6 SAME 
+2022/10/18 08:49:39 main.go:173: ------------------------------------------
+2022/10/18 08:49:45 main.go:65: Recieve a namesilo request.
+2022/10/18 08:50:40 main.go:170: Check:xlrouter6 SAME h11bmc6 SAME 
+2022/10/18 08:50:40 main.go:173: ------------------------------------------
+2022/10/18 09:01:20 main.go:65: Recieve a namesilo request.
+2022/10/18 09:01:27 main.go:170: Check:xlrouter6 SAME h11bmc6 SAME h11esxi6 SAME lcdev6 SAME fxw6 SAME 
+2022/10/18 09:01:27 main.go:173: ------------------------------------------
+2022/10/18 09:03:42 main.go:65: Recieve a namesilo request.
+2022/10/18 09:03:43 main.go:170: Check:xlrouter6 CHANGE h11bmc6 CHANGE h11esxi6 CHANGE lcdev6 CHANGE fxw6 CHANGE 
+2022/10/18 09:03:43 main.go:173: ------------------------------------------

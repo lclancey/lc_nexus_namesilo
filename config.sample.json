@@ -1,0 +1,18 @@
+{
+  "ns_domain": "mydomain.com",
+  "ns_key": "mykey",
+  "hosts": [
+    {
+      "name": "router",
+      "ipsufix": "::1"
+    },
+    {
+      "name": "devserver",
+      "ipsufix": ":aaaa:bbbb:cccc:dddd"
+    },
+    {
+      "name": "prodserver",
+      "ipsufix": ":mmmm:nnnn:xxxx:yyyy"
+    }
+  ]
+}
